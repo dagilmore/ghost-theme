@@ -74,7 +74,7 @@ html { font-family:'proxima-nova', Arial, sans-serif; font-size:12px;}
 */
 
 nav.main {
-	background:url('../img/me.png') #292422 no-repeat -35px bottom;
+	background:#292422 no-repeat -35px bottom;
 	background-size:150px;
 	width:300px;
 	position:fixed;
@@ -104,7 +104,7 @@ nav.main div.inner ul.social {
 }
 
 nav.main div.inner div.group {
-	margin-top:30px;
+	margin-top:80px;
 }
 
 nav.main div.inner div.group:first-child {
@@ -174,7 +174,7 @@ header.main {
 }
 
 header.main h1, header.main p {
-	margin-left:100px;
+	margin-left:40px;
 }
 
 header.main h1 a {
